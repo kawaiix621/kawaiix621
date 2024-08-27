@@ -10,7 +10,9 @@ I am all about blockchain development and auditing, I am a bug bounty hunter on 
 </br>
 </br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img align="right" alt="GIF" src="https://th.bing.com/th/id/R.52c6d9d75a7bf3a394aeb1e9b8354fec?rik=ujrWnkoO2TRbQw&pid=ImgRaw&r=0"/>
+
+
 
 **Current Status Quo:**
 
@@ -51,7 +53,6 @@ I am all about blockchain development and auditing, I am a bug bounty hunter on 
 
 
 <div align=right>
-
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awolaju/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kawaiix621)
 </div>
