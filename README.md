@@ -3,7 +3,8 @@ I am all about blockchain development and auditing, I am a bug bounty hunter on 
 
 </br>
 
-<img align="right" alt="GIF" src="https://th.bing.com/th/id/R.52c6d9d75a7bf3a394aeb1e9b8354fec?rik=ujrWnkoO2TRbQw&pid=ImgRaw&r=0"/>
+<img align="right" alt="GIF" src="https://www.kapwing.com/resources/content/images/2021/02/final_6039a4b26a140a00a1cffbd3_143170.gif"/>
+
 
 </br>
 
