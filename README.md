@@ -2,10 +2,6 @@
 Digital Artist  https://instagram.com/kawaiix621  and enjoying DLT 
 https://github.com/tobi-awolaju-21
 </br>
-
-<img align="right" alt="GIF" src="https://www.icegif.com/simpsons-41/"/>
-
-
 </br>
 
 <div align=right>
