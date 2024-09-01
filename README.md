@@ -1,6 +1,5 @@
 **`Rust, Solidity, Typscript , Golang`**
-Digital Artist  https://instagram.com/kawaiix621  and enjoying DLT 
-https://github.com/tobi-awolaju-21
+Digital Artist and enjoying DLT
 </br>
 </br>
 
