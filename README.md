@@ -3,7 +3,7 @@ Digital Artist  https://instagram.com/kawaiix621  and enjoying DLT
 https://github.com/tobi-awolaju-21
 </br>
 
-<img align="right" alt="GIF" src="https://www.kapwing.com/resources/content/images/2021/02/final_6039a4b26a140a00a1cffbd3_143170.gif"/>
+<img align="right" alt="GIF" src="https://www.icegif.com/simpsons-41/"/>
 
 
 </br>
