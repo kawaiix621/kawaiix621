@@ -1,6 +1,6 @@
-**`Blockchain Engineer (Architecture/Security)`**
-I am all about blockchain development and auditing, I am a bug bounty hunter on weekends, I participate in Hackathons that I find interesting (challenging). Currently an EEE major, might consider switching to robotics when I graduate this summer. I'm obsessed with ML papers. TMNT fan by the way.
-
+**`Rust, Solidity, Typscript , Golang`**
+Digital Artist  https://instagram.com/kawaiix621  and enjoying DLT 
+🦀  https://github.com/tobi-awolaju-21
 </br>
 
 <img align="right" alt="GIF" src="https://www.kapwing.com/resources/content/images/2021/02/final_6039a4b26a140a00a1cffbd3_143170.gif"/>
