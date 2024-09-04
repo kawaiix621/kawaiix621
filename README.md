@@ -5,4 +5,4 @@ I'm a Rust developer with a strong focus on Distributed Ledger Technology (DLT) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaiix621&theme=radical)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awolaju/)
-[![Twitter](https://img.shields.io/twitter/follow/kawaiix621?style=plastic&logo=Twitter&label=Kawaii&logoColor=white&labelColor=000000&color=000000)](https://twitter.com/kawaiix621)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kawaiix621)
