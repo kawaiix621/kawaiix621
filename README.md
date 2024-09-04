@@ -1,6 +1,12 @@
-I'm a Rust developer with a strong focus on Distributed Ledger Technology (DLT) and blockchain-related projects. Alongside my technical expertise, I'm also a digital artist with a keen eye for design. I excel in UI/UX design using Figma and bring assets to life with Rive animations. ## 🛠️ My Projects
+# Hi there! 👋
+
+I'm a Rust developer with a strong focus on Distributed Ledger Technology (DLT) and blockchain-related projects. Alongside my technical expertise, I'm also a digital artist with a keen eye for design. I excel in UI/UX design using Figma and bring assets to life with Rive animations.
+
+## 🛠️ My Projects
 - **GitFish:** A robust version control platform.
 - **Auditpool:** An innovative blockchain code auditing framework.
+- 
+[![Watch the video](https://img.youtube.com/vi/Ixl3nykKG9M/0.jpg)](https://youtu.be/Ixl3nykKG9M?si=V1KBlqVZfAGKMuRu)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaiix621&theme=radical)
 
