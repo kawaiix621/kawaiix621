@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 I'm a Rust developer with a strong focus on Distributed Ledger Technology (DLT) and blockchain-related projects. Alongside my technical expertise, I'm also a digital artist with a keen eye for design. I excel in UI/UX design using Figma and bring assets to life with Rive animations.
 
 ## 🛠️ My Projects
