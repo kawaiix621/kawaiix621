@@ -4,6 +4,8 @@
 </a>
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaiix621&theme=radical)
+
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/awolaju/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
