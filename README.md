@@ -7,7 +7,7 @@ I'm a Rust developer with a strong focus on Distributed Ledger Technology (DLT) 
 - **Auditpool**: An innovative blockchain code auditing framework.
 
 <a href="https://youtu.be/Ixl3nykKG9M?si=V1KBlqVZfAGKMuRu">
-  <img src="https://img.youtube.com/vi/Ixl3nykKG9M/0.jpg" alt="Watch the video" width="100vw" height="50vw" style="object-fit: cover;">
+  <img src="https://img.youtube.com/vi/Ixl3nykKG9M/0.jpg" alt="Watch the video" width="100%" height="50%" style="object-fit: cover;">
 </a>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaiix621&theme=radical)
