@@ -1,4 +1,4 @@
-**Complete  math of blockchain (5:00:00)*
+Complete  math of blockchain in 5hours
 <a href="https://youtu.be/Ixl3nykKG9M?si=V1KBlqVZfAGKMuRu">
   <img src="https://img.youtube.com/vi/Ixl3nykKG9M/0.jpg" alt="Watch the video" width="100%" height="50%" style="object-fit: cover;">
 </a>
