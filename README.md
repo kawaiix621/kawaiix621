@@ -5,7 +5,7 @@
 </a>
 <br>
 
-If you already have a basic understanding of Rust or TypeScript, this video will teach you the fundamentals of blockchain and the underlying math in just 5 hours. By the end, you'll have a solid grasp of blockchain technology from a technical perspective and be able to build a basic Layer 1 (L1) blockchain.
+If you already have a basic understanding of Rust or TypeScript, this video will teach you the fundamentals of blockchain and the underlying math in just 5 hours. By the end, you'll have a solid grasp of blockchain technology from a technical perspective and be able to build a basic Layer 1 (L1) blockchain from nothing.
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kawaiix621&theme=radical)
