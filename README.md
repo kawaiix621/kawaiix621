@@ -1,4 +1,6 @@
-**Complete Math of Blockchain in 5 Hours**
+**Kawaii Blockchain For beginners**
+*a learn about the basics of blockchain and in the math behind it in just 5 hours, you will fully understand blockchain from a technical standpoint and be able to build a basic 
+L1 blockchain by the end of this video if you are new to Blockchain a*
 <a href="https://youtu.be/Ixl3nykKG9M?si=V1KBlqVZfAGKMuRu">
   <img src="https://img.youtube.com/vi/Ixl3nykKG9M/0.jpg" alt="Watch the video" width="100%" height="auto" style="object-fit: cover;">
 </a>
