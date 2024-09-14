@@ -1,5 +1,4 @@
 **Kawaii Resume**
-
 As an Electrical and Electronics Engineering (EEE) major with a deep passion for Distributed Ledger Technology (DLT), Quantum Cryptography, and Embedded Systems, I have honed my skills across various technology stacks. My journey includes proficiency in:
 
 **Languages:** Rust, C, TypeScript/JavaScript, Python
