@@ -1,8 +1,8 @@
 **Hackathons**
 Wingman https://devpost.com/software/wingman-rzyjw8
-https://devpost.com/software/natural-language-video-manipulation-nlvm
-https://devpost.com/software/maas-1-0-medical-analysis-assistance-system
-https://devpost.com/software/one-last-kick
+Q-wrap https://devpost.com/software/natural-language-video-manipulation-nlvm
+MAAS https://devpost.com/software/maas-1-0-medical-analysis-assistance-system
+One Last Kick https://devpost.com/software/one-last-kick
 
 **Projects**
 midjourney + nextleg https://midjourney-demo-backup.bubbleapps.io/version-tes
