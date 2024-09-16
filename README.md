@@ -1,11 +1,8 @@
 **Kawaii Resume**
 23, building random | intresting projects on web3.
 
-</br>
-digital artist on slow days https://www.instagram.com/kawaiix621/
-</br>
-**Projects and Hackathons**
 
+**Projects and Hackathons**
 midjourney + nextleg https://midjourney-demo-backup.bubbleapps.io/version-test
 
 custom translator 
@@ -31,3 +28,7 @@ https://300-project.bubbleapps.io/version-test
 
 heyslides
 https://heyslide.webflow.io/
+
+
+</br>
+digital artist on slow days https://www.instagram.com/kawaiix621/
