@@ -1,4 +1,5 @@
-**Hackathons**
+#Hackathons
+
 Wingman
 https://devpost.com/software/wingman-rzyjw8
 
@@ -11,7 +12,8 @@ https://devpost.com/software/maas-1-0-medical-analysis-assistance-system
 One Last Kick
 https://devpost.com/software/one-last-kick
 
-**Projects**
+#Projects
+
 midjourneyfrontend 
 https://midjourney-demo-backup.bubbleapps.io/version-test
 
