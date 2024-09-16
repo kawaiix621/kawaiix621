@@ -1,7 +1,3 @@
-**Kawaii Resume**
-23, building random | intresting projects on web3.
-
-
 **Projects and Hackathons**
 midjourney + nextleg https://midjourney-demo-backup.bubbleapps.io/version-test
 
