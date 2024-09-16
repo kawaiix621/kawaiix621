@@ -20,7 +20,7 @@ https://midjourney-demo-backup.bubbleapps.io/version-test
 custom translator 
 https://translator-demo3.bubbleapps.io/version-test
 
-chrome extension demO
+chrome extension demo
 google meet anotation https://google-meet-crx-demo.bubbleapps.io/version-test
 
 file type detector
