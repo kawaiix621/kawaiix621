@@ -3,4 +3,4 @@
 [My Resume](https://docs.google.com/document/d/1rAaz1npJsNaA1Z4rRAQerH271eRiXhrEhwdmj5DxFQg/edit?usp=sharing)
 
 [My 
-Writings| substack papers](https://tobiawolaju21.substack.com)
+Writings| substack ](https://tobiawolaju21.substack.com)
