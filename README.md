@@ -1,4 +1,4 @@
-**Blockchain | Ai | EEE major**
+** Interested in Blockchain |Ai models|Robotics**
 *Forget about my past projects; let’s focus on what we can build together*
 [My Portfolio](https://exploremywork.vercel.app/)
 
